@@ -8,7 +8,7 @@ You get access to all the necessary dashboard UI components, elements, and pages
 
 The dashboard utilizes the powerful features of **Next.js 14** and common features of Next.js such as server-side rendering (SSR), static site generation (SSG), and seamless API route integration. Combined with the advancements of **React 18** and the robustness of **TypeScript**.
 
-### [✨ Visit Demo](https://tailadmin.com/)
+### [✨ Visit Demo](https://nextjs-admin-dashboard-murex-chi.vercel.app/)
 
 
 ## Installation
